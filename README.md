@@ -1,15 +1,6 @@
 # 📈 Investment Portfolio Helper
 
 A powerful Python-based dashboard to monitor your investment portfolio performance, compare against market benchmarks, and project future growth with realistic simulations.
-
-## Screenshots
-
-![Portfolio summary table](imgs/table.png)
-
-![Growth chart comparison](imgs/chart.png)
-
-![Future predictions chart](imgs/predictions.png)
-
 ---
 
 ## ✨ Key Features
@@ -96,3 +87,13 @@ To use the **Push to Sheets** feature:
 - `portfolio_logic.py`: Core engine for calculations, data fetching, and prediction models.
 - `sheets_api.py`: Handles secure communication with the Google Sheets API.
 - `etfs.csv`: Sample data file for quick testing.
+
+---
+
+## Screenshots
+
+![Portfolio summary table](imgs/table.png)
+
+![Growth chart comparison](imgs/chart.png)
+
+![Future predictions chart](imgs/predictions.png)
