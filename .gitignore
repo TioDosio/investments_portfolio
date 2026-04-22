@@ -1,2 +1,4 @@
-*.csv
+etfs.csv
 test.py
+*.pyc
+__pycache__/
